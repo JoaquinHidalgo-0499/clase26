@@ -7,4 +7,4 @@
         </script>
         </body>
 
-        </html>!-- place navbar here -->
+        </html>
